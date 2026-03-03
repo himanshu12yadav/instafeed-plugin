@@ -192,12 +192,6 @@ Storefronts can embed the feed by requesting `/apps/instafeed`.
 
 ---
 
-## Production URL
-
-The app is hosted at: `https://instagramfeed-app.sprinix.com`
-
----
-
 ## Resources
 
 - [Shopify App Remix Docs](https://shopify.dev/docs/api/shopify-app-remix)
