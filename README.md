@@ -186,7 +186,7 @@ Configured in `shopify.app.toml`:
 The storefront feed is served through a Shopify App Proxy:
 
 - **Prefix / Subpath**: `apps/instafeed`
-- **Backend URL**: `https://instagramfeed-app.sprinix.com/proxy/handler`
+- **Backend URL**: `https://something-app.com/proxy/handler`
 
 Storefronts can embed the feed by requesting `/apps/instafeed`.
 
